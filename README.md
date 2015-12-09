@@ -10,8 +10,7 @@ Parts list:
  * 1x LM1117-3V3 LDO, or equivalent
  * Some resistors and capacitors
  
-Circuits
-![All my circuits](/kicad/vectrexmando.pdf)
+Circuit in [PDF file](/kicad/vectrexmando.pdf)
 
 The project is done in KiCAD. The design files are in [kicad](/kicad) directory.
 
