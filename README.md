@@ -21,6 +21,12 @@ bootstrap the microcontroller.
 
 This adapter works excellent for me, but it's probably an overkill of a circuit for something as simple as this.
 
+Here's a test video:
+
+[![Joystick test video](http://img.youtube.com/vi/Hoa-xzlJ_dA/0.jpg)](http://www.youtube.com/watch?v=Hoa-xzlJ_dA)
+
+
+
 ---
 
 2013-2015 Viacheslav Slavinsky, http://sensi.org/~svo
