@@ -18,3 +18,9 @@ The hardware is done in KiCAD. The design files are in [kicad](/kicad) directory
 
 To compile the source code WinAVR or avr-gcc/avr-libc is required. A programmer of choice is required to
 bootstrap the microcontroller.
+
+This adapter works excellent for me, but it's probably an overkill of a circuit for something as simple as this.
+
+---
+
+2013-2015 Viacheslav Slavinsky, http://sensi.org/~svo
