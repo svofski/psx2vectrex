@@ -2,6 +2,8 @@
 
 This project allows using a classic PlayStation controller with Vectrex. 
 
+![Rusty PCB](psx2vectrex.jpg)
+
 Parts list:
  * 1x ATmega8
  * 1x MCP42010 dual-channel digital potentiometer
@@ -12,7 +14,7 @@ Parts list:
  
 Circuit in [PDF file](/kicad/vectrexmando.pdf)
 
-The project is done in KiCAD. The design files are in [kicad](/kicad) directory.
+The hardware is done in KiCAD. The design files are in [kicad](/kicad) directory.
 
 To compile the source code WinAVR or avr-gcc/avr-libc is required. A programmer of choice is required to
 bootstrap the microcontroller.
